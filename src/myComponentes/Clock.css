@@ -1,0 +1,16 @@
+.clock{
+    width:95vh;
+    height:95;
+    overflow: hidden;
+}
+
+.clock h1{
+    border: 2px solid blueviolet;
+    width: 250px;
+    margin: 40vh auto 0px auto;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: greenyellow;
+    box-shadow: rgba(0,0,0,0.35);
+
+}
